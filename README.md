@@ -10,6 +10,7 @@
 ├── hyper_search.py          # 参数查找
 ├── test.py                  # 测试最优参数在测试集上的准确率
 ├── utils.py                 # 数据加载与预处理、模型参数存储与加载、结果可视化
+├── best_params.npz          # 最优参数
 ├── cifar-10-python.tar.gz   # 数据集文件
 ├── README.md                # 项目说明文件
 └── results                  # 可视化结果和模型参数
